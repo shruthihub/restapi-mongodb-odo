@@ -5,7 +5,7 @@ metadata:
   namespace: mongodb-restapi
 spec:
   targetNamespaces:
-  - restapi-mongodb
+  - mongodb-restapi
 ---
 apiVersion: operators.coreos.com/v1alpha1
 kind: Subscription
