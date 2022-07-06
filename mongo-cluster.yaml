@@ -1,7 +1,7 @@
 apiVersion: psmdb.percona.com/v1-11-0
 kind: PerconaServerMongoDB
 metadata:
-  name: mongo-cluster2
+  name: mongodb-instance
 spec:
   platform: openshift
   crVersion: 1.11.0
